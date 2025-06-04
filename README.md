@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>portfolYOU</h1>
+  <h1>Community Blueprint Development Organization | CBDO</h1>
   <i>A beautiful portfolio Jekyll theme that works with GitHub Pages.</i>
 
   <a href="https://yousinix.github.io/portfolYOU/">Live Demo</a>
