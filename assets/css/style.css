@@ -1,3 +1,7 @@
+---
+---
+
+@import "{{ site.theme }}";
 <!DOCTYPE html>
 <div align="center">
   <h1>Community Blueprint Development</h1>
