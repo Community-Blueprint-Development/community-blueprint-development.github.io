@@ -1,0 +1,24 @@
+main:
+  - title: "Home"
+    url: /
+  - title: "About"
+    url: /pages/about/
+  - title: "Contact Us"
+    url: /pages/contact/
+  - title: "Donate"
+    url: /pages/donate/
+# ...other navigation items...
+#
+ #- title: "Posts"
+   # url: /year-archive/
+#  - title: "Categories"
+#  url: /categories/
+ #  - title: "Tags"
+#    url: /tags/
+#  - title: "Pages"
+ #   url: /page-archive/
+#  - title: "Collections"
+ #   url: /collection-archive/
+ # - title: "External Link"
+  #  url: https://google.com
+  #  target: _blank
