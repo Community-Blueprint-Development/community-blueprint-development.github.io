@@ -1,5 +1,5 @@
 ---
-title: " "
+title: "Donate"
 layout: splash
 permalink: /donate/
 author_profile: true
