@@ -1,7 +1,7 @@
 ---
 title: " "
 layout: splash
-permalink: /pages/contact
+permalink: /contact/
 author_profile: true
 header:
   overlay_image: /assets/images/atlparksandrec.jpeg
