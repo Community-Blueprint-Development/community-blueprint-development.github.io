@@ -1,0 +1,43 @@
+---
+title: " "
+layout: splash
+permalink: /
+author_profile: true
+header:
+  overlay_image: /assets/images/younggirls2.jpeg
+  overlay_filter: 0.25
+  caption: "Our YOUth!"
+gallery:
+  - url: /assets/images/preswwoman.jpeg
+    image_path: /assets/images/preswwoman.jpeg
+    alt: "CBDF President Daniel Dickson"
+    title: "CBDF President Daniel Dickson"
+  - url: /assets/images/game-truck.jpeg
+    image_path: /assets/images/game-truck.jpeg
+    alt: "Mobile Game Truck Event"
+    title: "Mobile Game Truck Event"
+  - url: /assets/images/threeyoungmen.jpeg
+    image_path: /assets/images/threeyoungmen.jpeg
+    alt: "Our YOUth"
+    title: "Our YOUth"
+---
+
+<div style="text-align: center;">
+  <h2>Welcome to Community Blueprint Development Foundation!</h2>
+</div>
+
+{% include gallery %}
+
+The Community Blueprint Development Foundation (CBDF) is an organization whose mission and vision involve expanding horizons, dreams and opportunities for at-risk YOUth. We provide education enrichment programs just for YOUth in their early years. CBDF programs are designed to enhance academic and social skills, promote self-esteem, build character, and support working parents. CBDF reassures solace for communities and its stakeholders by instilling that our YOUth are in safe and supporting environments. 
+
+<div style="text-align: center;">
+  <h2>Latest Posts</h2>
+</div>
+
+{% for post in site.posts limit:3 %}
+  {% unless post.slug == "2025-07-01-back-to-school" %}
+    <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+    <p>{{ post.excerpt }}</p>
+    <hr>
+  {% endunless %}
+{% endfor %}
