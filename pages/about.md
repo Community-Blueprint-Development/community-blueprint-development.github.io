@@ -1,6 +1,6 @@
 ---
 title: "About"
-permalink: /pages/about
+permalink: /about/
 layout: splash
 author_profile: true
 header:
