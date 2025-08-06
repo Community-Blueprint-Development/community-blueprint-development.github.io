@@ -1,6 +1,7 @@
 ---
 title: "Donate"
 layout: splash
+permalink: /donate/
 author_profile: false
 header:
   overlay_image: /assets/images/wic.jpeg
