@@ -310,6 +310,10 @@ compress_html:
 # Defaults
 defaults:
   #_pages
+  collections:
+  pages:
+    output: true
+    permalink: /:title/
   - scope:
       path: ""
       type: pages
