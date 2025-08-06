@@ -1,6 +1,5 @@
 ---
 title: "About"
-permalink: 
 layout: splash
 author_profile: true
 header:
