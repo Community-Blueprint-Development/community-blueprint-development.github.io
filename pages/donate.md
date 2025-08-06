@@ -19,7 +19,7 @@ environment. CBDF arranges out-of-school-time (OST) activities to foster student
 - Gym for recreation
 - Computer lab
 
-Please email <a href="mailto:communityblueprintdevelopment/@gmail.com">Community Blueprint Development Foundation</a> for instructions to pledge your support. 
+Please email [Community Blueprint Development Foundation, Inc.](mailto:communityblueprintdevelopment@gmail.com) for instructions to pledge your support. 
  
 
 
