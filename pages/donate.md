@@ -1,7 +1,7 @@
 ---
 title: "Donate"
-layout: splash
 permalink: /donate/
+layout: splash
 author_profile: false
 header:
   overlay_image: /assets/images/wic.jpeg
