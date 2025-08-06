@@ -1,6 +1,7 @@
 ---
 title: "About"
 layout: splash
+permalink: /about/
 author_profile: true
 header:
   overlay_image: /assets/images/threeyoungmen.jpeg
@@ -34,7 +35,7 @@ CBDF Board Members
 
 {% include gallery id="layouts_gallery" caption=" " %}
 
-[Contact Us]({{ "../contact.md" | relative_url }}){: .btn .btn--success .btn--large}
+[Contact Us]({{ "/contact/" | relative_url }}){: .btn .btn--success .btn--large}
 
 
 ## Our News
