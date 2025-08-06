@@ -34,7 +34,7 @@ CBDF Board Members
 
 {% include gallery id="layouts_gallery" caption=" " %}
 
-[Contact Us]({{ "/contact/" | relative_url }}){: .btn .btn--success .btn--large}
+[Contact Us]({{ "../contact.md" | relative_url }}){: .btn .btn--success .btn--large}
 
 
 ## Our News
