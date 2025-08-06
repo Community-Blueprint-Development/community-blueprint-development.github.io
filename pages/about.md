@@ -1,7 +1,7 @@
 ---
 title: "About"
-layout: splash
 permalink: /about/
+layout: splash
 author_profile: true
 header:
   overlay_image: /assets/images/threeyoungmen.jpeg
