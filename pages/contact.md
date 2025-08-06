@@ -1,7 +1,7 @@
 ---
 title: "Contact"
-layout: splash
 permalink: /contact/
+layout: splash
 author_profile: true
 header:
   overlay_image: /assets/images/atlparksandrec.jpeg
