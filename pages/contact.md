@@ -1,6 +1,6 @@
 ---
 title: "Contact"
-permalink: /pages/contact/
+permalink: /contact/
 layout: splash
 author_profile: true
 header:
