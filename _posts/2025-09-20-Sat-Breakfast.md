@@ -1,11 +1,9 @@
 ---
-title: "Back to School"
-categories:
-  - Post Formats
-tags:
-  - image
-  - Post Formats
+title: "Saturday School Breakfast Partnership"
+date: 2025-09-20 08:00:00 -0500
+categories: events
 ---
+
 
 {% capture fig_img %}
 [![Saturday Breakfast Partnership Event](/assets/images/Saturday-School.jpg)](https://communityblueprintdevelopment.org)
