@@ -24,7 +24,7 @@ The **CBDF in partnership with Fulton County Library and WestCare Georgia** is h
 
 Need more information or have questions?
 
-[Contact Us]({{ "/pages/contact/" | relative_url }}){: .btn .btn--success .btn--large}
+[Contact Us]({{ "/contact/" | relative_url }}){: .btn .btn--success .btn--large}
 
 
 
