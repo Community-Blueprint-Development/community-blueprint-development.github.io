@@ -1,4 +1,3 @@
-
 ---
 title: "Saturday School Partnership Breakfast"
 categories:
