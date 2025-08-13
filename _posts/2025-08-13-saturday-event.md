@@ -8,7 +8,7 @@ tags:
 ---
 
 {% capture fig_img %}
-[![Saturday Event](../assets/images/Saturday-School-Breakfast-Flyer-Final.jpg)](https://communityblueprintdevelopment.org)
+[![Saturday Event](../assets/images/Saturday-School-Breakfast-Flyer-Final.jpeg)](https://communityblueprintdevelopment.org)
 {% endcapture %}
 
 {% capture fig_caption %}
