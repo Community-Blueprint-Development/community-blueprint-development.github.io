@@ -1,5 +1,5 @@
 ---
-title: "Saturday School Partnership Breakfast"
+title: "Saturday Event"
 categories:
   - Post Formats
 tags:
@@ -8,7 +8,7 @@ tags:
 ---
 
 {% capture fig_img %}
-[![Saturday School Partnership Breakfast](../assets/images/Saturday-School.jpg)](https://communityblueprintdevelopment.org)
+[![Saturday Event](../assets/images/Saturday-School.jpg)](https://communityblueprintdevelopment.org)
 {% endcapture %}
 
 {% capture fig_caption %}
