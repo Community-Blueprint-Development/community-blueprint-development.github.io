@@ -9,7 +9,7 @@ tags:
 ---
 
 {% capture fig_img %}
-[![Saturday School Partnership Breakfast](../assets/images/Saturday-School.jpg)](../assets/images/Saturday-School.jpg)
+[![Saturday School Partnership Breakfast](../assets/images/Saturday-School.jpg)](https://communityblueprintdevelopment.org)
 {% endcapture %}
 
 {% capture fig_caption %}
