@@ -12,7 +12,7 @@ tags:
 {% endcapture %}
 
 {% capture fig_caption %}
-CBDF Partnership Event: Saturday School Parrnership Breakfast
+CBDF Partnership Event: Saturday School Partnership Breakfast
 {% endcapture %}
 
 <figure>
