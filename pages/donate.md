@@ -21,6 +21,26 @@ environment. CBDF arranges out-of-school-time (OST) activities to foster student
 
 Please email [Community Blueprint Development Foundation, Inc.](mailto:communityblueprintdevelopment@gmail.com) for instructions to pledge your support. 
  
+{% include paypal-sdk.html %}
 
+<div id="paypal-hosted-1" class="paypal-hosted-button"></div>
+
+<script>
+(function renderPayPalHostedButton() {
+  // Wait until the PayPal SDK has loaded and the HostedButtons component is available
+  function tryRender() {
+    if (window.paypal && window.paypal.HostedButtons) {
+      // Replace the hostedButtonId below with the ID you get from PayPal (hosted_button_id)
+      window.paypal.HostedButtons({
+        hostedButtonId: "FQCFAJW5BR9T4"
+      }).render("#paypal-hosted-1");
+      return;
+    }
+    // try again in 75ms
+    setTimeout(tryRender, 75);
+  }
+  tryRender();
+})();
+</script>
 
 
