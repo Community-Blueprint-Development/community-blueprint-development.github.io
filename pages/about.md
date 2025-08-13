@@ -42,7 +42,7 @@ CBDF Board Members
 
 | Name                                        | Description                                           |
 | ------------------------------------------- | ----------------------------------------------------- |
-|[August-13-2025] [Saturday-School-Breakfast-Partnership] | CBDF Partnership Saturday School Breakfast Event |
+|[August-18-2025] [Saturday-School-Breakfast-Partnership] | CBDF Partnership Saturday School Breakfast Event |
 |[July-01-2025] [Back-To-School] | CBDF Partnership Back to School Event |
 
 
