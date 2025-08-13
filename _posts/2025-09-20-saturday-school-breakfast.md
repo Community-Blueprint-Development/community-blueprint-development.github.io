@@ -1,16 +1,16 @@
 ---
-title: "Saturday School Breakfast Partnership"
+title: "Saturday School Breakfast"
 date: 2025-09-20 08:00:00 -0500
 categories: events
 ---
 
 
 {% capture fig_img %}
-[![Saturday Breakfast Partnership Event](/assets/images/Saturday-School.jpg)](https://communityblueprintdevelopment.org)
+[![Saturday School Breakfast](/assets/images/Saturday-School.jpg)](https://communityblueprintdevelopment.org)
 {% endcapture %}
 
 {% capture fig_caption %}
-CBDF Parnership Event - September 20, 2025.
+CBDF Partnership Event - September 20, 2025.
 {% endcapture %}
 
 <figure>
