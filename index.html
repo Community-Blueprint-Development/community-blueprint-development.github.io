@@ -34,8 +34,8 @@ The Community Blueprint Development Foundation (CBDF) is an organization whose m
   <h2>Latest Posts</h2>
 </div>
 
-{% for post in site.posts limit:5 %}
-  {% unless post.slug == "2025-07-01-back-to-school" %}
+{% for post in site.posts limit:3 %}
+  {% unless post.slug == "2025-09-20-saturday-school-breakfast" %}
     <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
     <p>{{ post.excerpt }}</p>
     <hr>
