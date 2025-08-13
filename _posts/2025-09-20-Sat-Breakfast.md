@@ -1,4 +1,4 @@
---
+---
 title: "Back to School"
 categories:
   - Post Formats
