@@ -117,8 +117,8 @@ author:
   location         : "Atlanta, GA"
   email            : "communityblueprintdevelopment@gmail.com"
   links:
-   # - label: "Website"
-     #icon: "fas fa-fw fa-link"
+    - label: "Donate"
+      icon: "https://www.paypal.com/sdk/js?client-id=BAAtJ7EgnYV4YcH0FSjJD4bEyhZO0EX_NTbY2-0NttdqpE3EZArLzbHJVB4MEXSHV2zdZZOsQw73i925us&components=hosted-buttons&enable-funding=venmo&currency=USD"
      #url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
