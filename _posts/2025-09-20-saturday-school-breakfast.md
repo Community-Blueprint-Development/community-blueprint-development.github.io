@@ -1,6 +1,6 @@
 ---
 title: "Saturday School Breakfast"
-permalink: "../_posts/2025-09-20-saturday-school-breakfast"
+permalink: /_posts/2025-09-20-saturday-school-breakfast
 categories:
   - Post Formats
 tags:
