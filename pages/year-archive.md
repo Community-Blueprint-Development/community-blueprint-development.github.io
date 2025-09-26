@@ -7,6 +7,7 @@ author_profile: true
 
 Current and archived events:
 
+[Saturday-School-Registration]: {{ "" | relative_url }}{% post_url 2025-09-25-sat-school-registration %}
 [Saturday-Event]: {{ "" | relative_url }}{% post_url 2025-08-13-saturday-event %}
 [Back-To-School]: {{ "" | relative_url }}{% post_url 2025-07-01-back-to-school %}
 [Reading and Wellness Event]: {{ "" | relative_url }}{% post_url 2024-06-20-read-Well %}
