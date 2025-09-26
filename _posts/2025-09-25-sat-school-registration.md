@@ -9,7 +9,7 @@ tags:
 ---
 
 {% capture fig_img %}
-[![Attend the Saturday School Registration](../assets/images/sat-school-registration.png)](https://communityblueprintdevelopment.org)
+[![Attend the Saturday School Registration](../assets/images/Sat-School-Registration.png)](https://communityblueprintdevelopment.org)
 {% endcapture %}
 
 {% capture fig_caption %}
