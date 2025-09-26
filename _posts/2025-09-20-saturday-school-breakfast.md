@@ -9,11 +9,11 @@ tags:
 ---
 
 {% capture fig_img %}
-[![Saturday School Partnership Breakfast](../assets/images/Saturday-School.jpg)](https://communityblueprintdevelopment.org)
+[![Saturday School Partnership Breakfast](../assets/images/Sat-School-Breakfast-Artifact.png)](https://communityblueprintdevelopment.org)
 {% endcapture %}
 
 {% capture fig_caption %}
-CBDF Partnership Event: Saturday School Parrnership Breakfast
+
 {% endcapture %}
 
 <figure>
