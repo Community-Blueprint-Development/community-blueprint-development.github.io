@@ -13,7 +13,7 @@ tags:
 {% endcapture %}
 
 {% capture fig_caption %}
-Saturday School Registration on October 4, 2025
+
 {% endcapture %}
 
 <figure>
