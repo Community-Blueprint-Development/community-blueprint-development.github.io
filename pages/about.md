@@ -60,4 +60,4 @@ Check our archive [Posts by Year][year-archive].
 [tags-archive]: {{ "/tags/" | relative_url }}
 [year-archive]: {{ "/year-archive/" | relative_url }}
 
-_posts/2025-09-25-sat-school-registration.md
+
