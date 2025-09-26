@@ -9,11 +9,13 @@ tags:
 ---
 
 {% capture fig_img %}
-[![Saturday School Partnership Breakfast](../assets/images/Sat-School-Breakfast-Artifact.png)](https://communityblueprintdevelopment.org)
+<a href="https://communityblueprintdevelopment.org">
+  <img src="../assets/images/Sat-School-Breakfast-Artifact.png" alt="Saturday School Partnership Breakfast" style="width:100%;max-width:800px;display:block;margin:0 auto;" />
+</a>
 {% endcapture %}
 
 {% capture fig_caption %}
-
+<!-- Add caption text here if needed -->
 {% endcapture %}
 
 <figure>
@@ -25,3 +27,8 @@ Need more information or have questions?
 
 [Contact Us]({{ "/contact/" | relative_url }}){: .btn .btn--success .btn--large}
 *— Community Blueprint Development — "Just for YOUth!"*
+
+
+
+
+
