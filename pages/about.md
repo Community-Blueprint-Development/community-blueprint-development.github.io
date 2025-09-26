@@ -42,12 +42,14 @@ CBDF Board Members
 
 | Name                                        | Description                                           |
 | ------------------------------------------- | ----------------------------------------------------- |
+|[October-4-2025] [Saturday-School-Registration] | Register for Saturday School on October 4th |
 |[September-20-2025] [Saturday-Event] | CBDF Partnership Saturday School Breakfast Event |
 |[July-01-2025] [Back-To-School] | CBDF Partnership Back to School Event |
 
 
 Check our archive [Posts by Year][year-archive].
 
+[Saturday-School-Registration]: {{ "" | relative_url }}{% post_url 2025-09-25-sat-school-registration %}
 [Saturday-Event]: {{ "" | relative_url }}{% post_url 2025-08-13-saturday-event %}
 [Back-To-School]: {{ "" | relative_url }}{% post_url 2025-07-01-back-to-school %}
 [Reading and Wellness Event]: {{ "" | relative_url }}{% post_url 2024-06-20-read-Well %}
@@ -58,5 +60,4 @@ Check our archive [Posts by Year][year-archive].
 [tags-archive]: {{ "/tags/" | relative_url }}
 [year-archive]: {{ "/year-archive/" | relative_url }}
 
-
-
+_posts/2025-09-25-sat-school-registration.md
