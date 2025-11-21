@@ -9,7 +9,7 @@ Current and archived events:
 
 [December-16-Nutcracker-Performance]: {{ "" | relative_url }}{% post_url 2025-11-21-nutcracker %}
 [Holiday-Clothing-Drive]: {{ "" | relative_url }}{% post_url 2025-11-21-holiday-drive %}
-[December-2025-Calendar]: {{ "" | relative_url }}{% post_url 2025-11-21-dec25calendar %}
+[December-2025-Calendar]: {{ "" | relative_url }}{% post_url 2025-11-21-sat-school-dec25calendar %}
 [Attend-Saturday-School]: {{ "" | relative_url }}{% post_url 2025-11-21-sat-school-attendance %}
 [Saturday-School-Registration]: {{ "" | relative_url }}{% post_url 2025-09-25-sat-school-registration %}
 [Saturday-Event]: {{ "" | relative_url }}{% post_url 2025-08-13-saturday-event %}
