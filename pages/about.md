@@ -42,6 +42,10 @@ CBDF Board Members
 
 | Name                                        | Description                                           |
 | ------------------------------------------- | ----------------------------------------------------- |
+|[November-21-2025] [December-16-Nutcracker-Performance] | December 16th Nutcracker Performance |
+|[November-21-2025] [Holiday-Clothing-Drive] | Serving our Community with Holiday Donations|
+|[November-21-2025] [December-2025-Calendar] | Saturday School Calendar December 2025 |
+|[November-21-2025] [Attend-Saturday-School] | Join Us for Saturday School NOW! |
 |[October-4-2025] [Saturday-School-Registration] | Register for Saturday School on October 4th |
 |[September-20-2025] [Saturday-Event] | CBDF Partnership Saturday School Breakfast Event |
 |[July-01-2025] [Back-To-School] | CBDF Partnership Back to School Event |
@@ -49,6 +53,10 @@ CBDF Board Members
 
 Check our archive [Posts by Year][year-archive].
 
+[December-16-Nutcracker-Performance]: {{ "" | relative_url }}{% post_url 2025-11-21-nutcracker %}
+[Holiday-Clothing-Drive]: {{ "" | relative_url }}{% post_url 2025-11-21-holiday-drive %}
+[December-2025-Calendar]: {{ "" | relative_url }}{% post_url 2025-11-21-sat-school-dec25calendar %}
+[Attend-Saturday-School]: {{ "" | relative_url }}{% post_url 2025-11-21-sat-school-attend %}
 [Saturday-School-Registration]: {{ "" | relative_url }}{% post_url 2025-09-25-sat-school-registration %}
 [Saturday-Event]: {{ "" | relative_url }}{% post_url 2025-08-13-saturday-event %}
 [Back-To-School]: {{ "" | relative_url }}{% post_url 2025-07-01-back-to-school %}
