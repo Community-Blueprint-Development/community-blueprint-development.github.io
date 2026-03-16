@@ -1,5 +1,5 @@
 ---
-title: "InspiredU-Flyer-3-16.png"
+title: "Adult Computer Tutorials"
 categories:
   - Post Formats
 tags:
