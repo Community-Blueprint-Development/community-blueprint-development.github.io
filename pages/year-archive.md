@@ -7,7 +7,7 @@ author_profile: true
 
 Current and archived events:
 
-|[March-16-2026] [InspiredU Flyer] | Adult Computer Tutorials |
+|[March-16-2026] [InspiredU-Flyer] | Adult Computer Tutorials |
 |[November-21-2025] [December-16-Nutcracker-Performance] | December 16th Nutcracker Performance |
 |[November-21-2025] [Holiday-Clothing-Drive] | Serving our Community with Holiday Donations|
 |[November-21-2025] [December-2025-Calendar] | Saturday School Calendar December 2025 |
@@ -19,7 +19,7 @@ Current and archived events:
 
 Check our archive [Posts by Year][year-archive].
 
-[InspiredU Flyer]: {{ "" | relative_url }}{% post_url 2026-03-16-inspiredu-flyer %}
+[InspiredU-Flyer]: {{ "" | relative_url }}{% post_url 2026-03-16-inspiredu-flyer %}
 [December-16-Nutcracker-Performance]: {{ "" | relative_url }}{% post_url 2025-11-21-nutcracker %}
 [Holiday-Clothing-Drive]: {{ "" | relative_url }}{% post_url 2025-11-21-holiday-drive %}
 [December-2025-Calendar]: {{ "" | relative_url }}{% post_url 2025-11-21-sat-school-dec25calendar %}
