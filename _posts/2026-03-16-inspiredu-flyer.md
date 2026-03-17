@@ -1,5 +1,6 @@
 ---
 title: "Adult Computer Tutorials"
+permalink: /_posts/2026-03-16-inspiredu-flyer
 categories:
   - Post Formats
 tags:
