@@ -31,8 +31,8 @@ masthead_title           : "Community Blueprint Development Foundation" # overri
 breadcrumbs              : # true, false (default)
 words_per_minute         : 200
 enable_copy_code_button  : # true, false (default)
-copyright                : "Copyright CBDF. Site maintained by Restemblance, LLC" # "copyright" name, defaults to site.title
-#copyright_url            : # "copyright" URL, defaults to site.url
+copyright                : "2026 Copyright CBDF. Site maintained by Restemblance, LLC" # "copyright" name, defaults to site.title
+copyright_url            : "https://restemblance.dev" URL, defaults to site.url
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
   disqus:
