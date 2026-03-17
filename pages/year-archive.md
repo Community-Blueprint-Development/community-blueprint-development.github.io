@@ -19,7 +19,7 @@ Current and archived events:
 
 Check our archive [Posts by Year][year-archive].
 
-[InspiredU Flyer]: {{ "" | relative_url }}{% post_url 2026-03-16-Inspiredu-flyer %}
+[InspiredU Flyer]: {{ "" | relative_url }}{% post_url 2026-03-16-inspiredu-flyer %}
 [December-16-Nutcracker-Performance]: {{ "" | relative_url }}{% post_url 2025-11-21-nutcracker %}
 [Holiday-Clothing-Drive]: {{ "" | relative_url }}{% post_url 2025-11-21-holiday-drive %}
 [December-2025-Calendar]: {{ "" | relative_url }}{% post_url 2025-11-21-sat-school-dec25calendar %}
