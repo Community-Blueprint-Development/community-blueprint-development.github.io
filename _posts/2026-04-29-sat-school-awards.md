@@ -1,6 +1,6 @@
 ---
 title: "Saturday School Awards"
-permalink: /_posts/2026-4-29-sat-school-awards
+permalink: /_posts/2026-04-29-sat-school-awards
 categories:
   - Post Formats
 tags:
