@@ -43,7 +43,7 @@ CBDF Board Members
 | Name                                        | Description                                           |
 | ------------------------------------------- | ----------------------------------------------------- |
 
-|[April-29-2026] [Atlanta North Georgia Conference Sponsor] | ANGC Sponsor |
+|[April-29-2026] [Atlanta-North-Georgia-Conference-Sponsor] | Atlanta North Georgia Conference Sponsor |
 |[April-29-2026] [Saturday-School-Awards] | Saturday School Awards Ceremony |
 |[November-21-2025] [December-16-Nutcracker-Performance] | December 16th Nutcracker Performance |
 |[November-21-2025] [Holiday-Clothing-Drive] | Serving our Community with Holiday Donations|
@@ -55,7 +55,7 @@ CBDF Board Members
 
 Check our archive [Posts by Year][year-archive].
 
-[Atlanta North Georgia Conference Sponsor]: {{ "" | relative_url }}{% post_url 2026-04-29-sponsors %}[
+[Atlanta-North-Georgia-Conference-Sponsor]: {{ "" | relative_url }}{% post_url 2026-04-29-sponsors %}[
 [Saturday-School-Awards]: {{ "" | relative_url }}{% post_url 2026-04-29-sat-school-awards %}
 [InspiredU-Flyer]: {{ "" | relative_url }}{% post_url 2026-03-16-inspiredu-flyer %}
 [December-16-Nutcracker-Performance]: {{ "" | relative_url }}{% post_url 2025-11-21-nutcracker %}
