@@ -22,7 +22,7 @@ CBDF Partnership Event: Mental Health Workshop
 
 Need more information or have questions?
 
-[Contact Us]({{ "/pages/contact/" | relative_url }}){: .btn .btn--success .btn--large}
+[Contact Us]({{ "/contact/" | relative_url }}){: .btn .btn--success .btn--large}
 
 
 

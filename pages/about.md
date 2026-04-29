@@ -35,18 +35,35 @@ CBDF Board Members
 
 {% include gallery id="layouts_gallery" caption=" " %}
 
-[Contact Us]({{ "/pages/contact/" | relative_url }}){: .btn .btn--success .btn--large}
+[Contact Us]({{ "/contact/" | relative_url }}){: .btn .btn--success .btn--large}
 
 
 ## Our News
 
 | Name                                        | Description                                           |
 | ------------------------------------------- | ----------------------------------------------------- |
+
+|[April-29-2026] [Atlanta-North-Georgia-Conference-Sponsor] | Atlanta North Georgia Conference Sponsor |
+|[April-29-2026] [Saturday-School-Awards] | Saturday School Awards Ceremony |
+|[March-16-2026] [InspiredU-Flyer] | Adult Computer Tutorials |
+|[November-21-2025] [December-16-Nutcracker-Performance] | December 16th Nutcracker Performance |
+|[November-21-2025] [Holiday-Clothing-Drive] | Serving our Community with Holiday Donations|
+|[November-21-2025] [Attend-Saturday-School] | Join Us for Saturday School NOW! |
+|[October-4-2025] [Saturday-School-Registration] | Register for Saturday School on October 4th |
+|[September-20-2025] [Saturday-Event] | CBDF Partnership Saturday School Breakfast Event |
 |[July-01-2025] [Back-To-School] | CBDF Partnership Back to School Event |
 
 
 Check our archive [Posts by Year][year-archive].
 
+[Atlanta-North-Georgia-Conference-Sponsor]: {{ "" | relative_url }}{% post_url 2026-04-29-sponsors %}[
+[Saturday-School-Awards]: {{ "" | relative_url }}{% post_url 2026-04-29-sat-school-awards %}
+[InspiredU-Flyer]: {{ "" | relative_url }}{% post_url 2026-03-16-inspiredu-flyer %}
+[December-16-Nutcracker-Performance]: {{ "" | relative_url }}{% post_url 2025-11-21-nutcracker %}
+[Holiday-Clothing-Drive]: {{ "" | relative_url }}{% post_url 2025-11-21-holiday-drive %}
+[Attend-Saturday-School]: {{ "" | relative_url }}{% post_url 2025-11-21-sat-school-attend %}
+[Saturday-School-Registration]: {{ "" | relative_url }}{% post_url 2025-09-25-sat-school-registration %}
+[Saturday-Event]: {{ "" | relative_url }}{% post_url 2025-08-13-saturday-event %}
 [Back-To-School]: {{ "" | relative_url }}{% post_url 2025-07-01-back-to-school %}
 [Reading and Wellness Event]: {{ "" | relative_url }}{% post_url 2024-06-20-read-Well %}
 [CBDF Crime Prevention Awareness]: {{ "" | relative_url }}{% post_url 2023-06-18-crime %}
@@ -55,6 +72,5 @@ Check our archive [Posts by Year][year-archive].
 [categories-archive]: {{ "/categories/" | relative_url }}
 [tags-archive]: {{ "/tags/" | relative_url }}
 [year-archive]: {{ "/year-archive/" | relative_url }}
-
 
 

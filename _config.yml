@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "" # site title that appears in the browser tab and masthead
+title                    : "CBDF Home" # site title that appears in the browser tab and masthead
 title_separator          : "-"
 subtitle                 : "Just for YOUth!" # site tagline that appears below site title in masthead
 #name                     : "Community Blueprint Development Foundation"
@@ -31,8 +31,8 @@ masthead_title           : "Community Blueprint Development Foundation" # overri
 breadcrumbs              : # true, false (default)
 words_per_minute         : 200
 enable_copy_code_button  : # true, false (default)
-copyright                : "Copyright CBDF. Site maintained by Restemblance, LLC" # "copyright" name, defaults to site.title
-#copyright_url            : # "copyright" URL, defaults to site.url
+copyright                : "Copyright CBDF. Site maintained by ReSTEMblance, LLC" # "copyright" name, defaults to site.title
+copyright_url            : #"https://restemblance.dev" #URL, defaults to site.url
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
   disqus:
@@ -117,8 +117,8 @@ author:
   location         : "Atlanta, GA"
   email            : "communityblueprintdevelopment@gmail.com"
   links:
-   # - label: "Website"
-     #icon: "fas fa-fw fa-link"
+    - label: "Donate"
+      icon: "https://www.paypal.com/sdk/js?client-id=BAAtJ7EgnYV4YcH0FSjJD4bEyhZO0EX_NTbY2-0NttdqpE3EZArLzbHJVB4MEXSHV2zdZZOsQw73i925us&components=hosted-buttons&enable-funding=venmo&currency=USD"
      #url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
