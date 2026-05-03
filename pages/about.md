@@ -10,12 +10,12 @@ header:
 toc: true
 ---
 
-Community Blueprint Development Foundation, Inc. (CBDF) is a nonprofit, tax-exempt 501 (c) (3) corporation organized and operated exclusively on the generosity of contributors to provide charitable [...]  
+Community Blueprint Development Foundation, Inc. (CBDF) is a nonprofit, tax-exempt 501 (c) (3) corporation organized and operated exclusively on the generosity of contributors to provide charitable services to promote the health, safety, welfare, and education of individuals in our community.
 
-CBDF is the vision of our president, Reverend Daniel Dickson, who has been on a mission to save the lives of youth in the Joyland community for nearly 20 years. In the Joyland Community, which is [...]  
+CBDF is the vision of our president, Reverend Daniel Dickson, who has been on a mission to save the lives of youth in the Joyland community for nearly 20 years. In the Joyland Community, which is an economically disadvantaged area where many youth are at-risk, CBDF will empower participants through a holistic approach to life skills development in the academic, civic, economic and social arenas.
 
 CBDF believes that we would all be better served to invest in the future by investing in our YOUth. Our primary focus is community development via YOUth development.  
-We believe that YOUth Development is a blueprint for positive community development! We also believe that we can equip community YOUth with essential academic, civic, economic and social life skil[...]  
+We believe that YOUth Development is a blueprint for positive community development! We also believe that we can equip community YOUth with essential academic, civic, economic and social life skills that will enable them to become productive, self-sufficient, and socially conscious citizens.
 
 BENEFITs:
 1. Participants will be more inclined to practice healthy habits
@@ -57,6 +57,7 @@ CBDF Board Members
 Check our archive [Posts by Year][year-archive].
 
 [Summer-2026-Reading-and-Wellness-Festival]: {{ "" | relative_url }}{% post_url 2026-05-03-unearth %}
+[Atlanta-North-Georgia-Conference-Sponsor]: {{ "" | relative_url }}{% post_url 2026-04-29-sponsors %}
 [Saturday-School-Awards]: {{ "" | relative_url }}{% post_url 2026-04-29-sat-school-awards %}
 [InspiredU-Flyer]: {{ "" | relative_url }}{% post_url 2026-03-16-inspiredu-flyer %}
 [December-16-Nutcracker-Performance]: {{ "" | relative_url }}{% post_url 2025-11-21-nutcracker %}
