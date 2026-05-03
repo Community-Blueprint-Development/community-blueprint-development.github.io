@@ -43,7 +43,7 @@ CBDF Board Members
 | Name                                        | Description                                           |
 | ------------------------------------------- | ----------------------------------------------------- |
 
-|[May-3-2026] [Summer-2026-Reading-and-Wellness-Festival] | Summer 2026 Reading and Wellness Festival - Unearth a Story |
+|[May-3-2026] [Summer-2026-Reading-and-Wellness-Festival] | Summer 2026 Reading and Wellness Festival Unearth a Story |
 |[April-29-2026] [Atlanta-North-Georgia-Conference-Sponsor] | Atlanta North Georgia Conference Sponsor |
 |[April-29-2026] [Saturday-School-Awards] | Saturday School Awards Ceremony |
 |[March-16-2026] [InspiredU-Flyer] | Adult Computer Tutorials |
