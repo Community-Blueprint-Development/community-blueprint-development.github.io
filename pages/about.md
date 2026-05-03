@@ -10,12 +10,12 @@ header:
 toc: true
 ---
 
-Community Blueprint Development Foundation, Inc. (CBDF) is a nonprofit, tax-exempt 501 (c) (3) corporation organized and operated exclusively on the generosity of contributors to provide charitable and educational programs and services designed to develop community YOUth. Our programs and services not only promote academic, economic, political, and social skills, but they also boost self-esteem, build character, and support working parents of YOUth who find solace in knowing that their children are safe and doing something both productive and constructive in an educational environment in their absence.
+Community Blueprint Development Foundation, Inc. (CBDF) is a nonprofit, tax-exempt 501 (c) (3) corporation organized and operated exclusively on the generosity of contributors to provide charitable [...]  
 
-CBDF is the vision of our president, Reverend Daniel Dickson, who has been on a mission to save the lives of youth in the Joyland community for nearly 20 years. In the Joyland Community, which is located in the 30315 zip code, there are approximately 200 children between the ages of 5-14 who are primarily from African-American, single-female-headed households with a median household income significantly lower than the US average and a crime rate significantly above the national average. 
+CBDF is the vision of our president, Reverend Daniel Dickson, who has been on a mission to save the lives of youth in the Joyland community for nearly 20 years. In the Joyland Community, which is [...]  
 
-CBDF believes that we would all be better served to invest in the future by investing in our YOUth. Our primary focus is community development via YOUth development. 
-We believe that YOUth Development is a blueprint for positive community development! We also believe that we can equip community YOUth with essential academic, civic, economic and social life skills needed to improve the quality of life in a community, and in turn, promote a productive and constructive society.
+CBDF believes that we would all be better served to invest in the future by investing in our YOUth. Our primary focus is community development via YOUth development.  
+We believe that YOUth Development is a blueprint for positive community development! We also believe that we can equip community YOUth with essential academic, civic, economic and social life skil[...]  
 
 BENEFITs:
 1. Participants will be more inclined to practice healthy habits
@@ -38,11 +38,10 @@ CBDF Board Members
 [Contact Us]({{ "/contact/" | relative_url }}){: .btn .btn--success .btn--large}
 
 
-## Our News ##
+## Our News
 
 | Name                                        | Description                                           |
 | ------------------------------------------- | ----------------------------------------------------- |
-
 |[May-3-2026] [Summer-2026-Reading-and-Wellness-Festival] | Summer 2026 Reading and Wellness Festival Unearth a Story |
 |[April-29-2026] [Atlanta-North-Georgia-Conference-Sponsor] | Atlanta North Georgia Conference Sponsor |
 |[April-29-2026] [Saturday-School-Awards] | Saturday School Awards Ceremony |
@@ -73,5 +72,3 @@ Check our archive [Posts by Year][year-archive].
 [categories-archive]: {{ "/categories/" | relative_url }}
 [tags-archive]: {{ "/tags/" | relative_url }}
 [year-archive]: {{ "/year-archive/" | relative_url }}
-
-
