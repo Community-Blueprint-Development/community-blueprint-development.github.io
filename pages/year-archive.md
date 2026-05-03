@@ -7,6 +7,8 @@ author_profile: true
 
 Current and archived events:
 
+
+|[May-3-2026] [Summer-2026-Reading-and-Wellness-Festival] | Summer 2026 Reading and Wellness Festival - Unearth a Story |
 |[April-29-2026] [Atlanta North Georgia Conference Sponsor] | ANGC Sponsor |
 |[April-29-2026] [Saturday-School-Awards] | Saturday School Awards Ceremony |
 |[March-16-2026] [InspiredU-Flyer] | Adult Computer Tutorials |
@@ -20,6 +22,7 @@ Current and archived events:
 
 Check our archive [Posts by Year][year-archive].
 
+[Summer-2026-Reading-and-Wellness-Festival]: {{ "" | relative_url }}{% post_url 2026-05-03-unearth %}
 [Atlanta North Georgia Conference Sponsor]: {{ "" | relative_url }}{% post_url 2026-04-29-sponsors %}[
 [Saturday-School-Awards]: {{ "" | relative_url }}{% post_url 2026-04-29-sat-school-awards %}
 [InspiredU-Flyer]: {{ "" | relative_url }}{% post_url 2026-03-16-inspiredu-flyer %}
@@ -36,3 +39,4 @@ Check our archive [Posts by Year][year-archive].
 [categories-archive]: {{ "/categories/" | relative_url }}
 [tags-archive]: {{ "/tags/" | relative_url }}
 [year-archive]: {{ "/year-archive/" | relative_url }}
+
