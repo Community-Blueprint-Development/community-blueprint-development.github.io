@@ -38,7 +38,7 @@ CBDF Board Members
 [Contact Us]({{ "/contact/" | relative_url }}){: .btn .btn--success .btn--large}
 
 
-## Our News
+## Our News ##
 
 | Name                                        | Description                                           |
 | ------------------------------------------- | ----------------------------------------------------- |
