@@ -57,7 +57,7 @@ CBDF Board Members
 
 Check our archive [Posts by Year][year-archive].
 
-[Summer-2026-Reading-and-Wellness-Festival]: {{ "" | relative_url }}{% post_url 2026-05-03-unearth %}[
+[Summer-2026-Reading-and-Wellness-Festival]: {{ "" | relative_url }}{% post_url 2026-05-03-unearth %}
 [Saturday-School-Awards]: {{ "" | relative_url }}{% post_url 2026-04-29-sat-school-awards %}
 [InspiredU-Flyer]: {{ "" | relative_url }}{% post_url 2026-03-16-inspiredu-flyer %}
 [December-16-Nutcracker-Performance]: {{ "" | relative_url }}{% post_url 2025-11-21-nutcracker %}
