@@ -7,9 +7,9 @@ author_profile: true
 
 Current and archived events:
 
-
-|[May-3-2026] [Summer-2026-Reading-and-Wellness-Festival] | Summer 2026 Reading and Wellness Festival - Unearth a Story |
-|[April-29-2026] [Atlanta North Georgia Conference Sponsor] | ANGC Sponsor |
+|[June-13-2026] [June-18th-Attend-The-Reading-and-Wellness-Festival] | June 18th Reading and Wellness Festival |
+|[May-3-2026] [Summer-2026-Reading-and-Wellness-Festival] | Summer 2026 Reading and Wellness Festival Unearth a Story |
+|[April-29-2026] [Atlanta-North-Georgia-Conference-Sponsor] | Atlanta North Georgia Conference Sponsor |
 |[April-29-2026] [Saturday-School-Awards] | Saturday School Awards Ceremony |
 |[March-16-2026] [InspiredU-Flyer] | Adult Computer Tutorials |
 |[November-21-2025] [December-16-Nutcracker-Performance] | December 16th Nutcracker Performance |
@@ -22,8 +22,9 @@ Current and archived events:
 
 Check our archive [Posts by Year][year-archive].
 
+[June-18th-Attend-The-Reading-and-Wellness-Festival]: {{ "" | relative_url }}{% post_url 2026-06-13-reading-wellness-festival %}
 [Summer-2026-Reading-and-Wellness-Festival]: {{ "" | relative_url }}{% post_url 2026-05-03-unearth %}
-[Atlanta North Georgia Conference Sponsor]: {{ "" | relative_url }}{% post_url 2026-04-29-sponsors %}[
+[Atlanta-North-Georgia-Conference-Sponsor]: {{ "" | relative_url }}{% post_url 2026-04-29-sponsors %}
 [Saturday-School-Awards]: {{ "" | relative_url }}{% post_url 2026-04-29-sat-school-awards %}
 [InspiredU-Flyer]: {{ "" | relative_url }}{% post_url 2026-03-16-inspiredu-flyer %}
 [December-16-Nutcracker-Performance]: {{ "" | relative_url }}{% post_url 2025-11-21-nutcracker %}
