@@ -1,6 +1,6 @@
 ---
 title: "Summer 2026 Reading and Wellness Festival - June 18, 2026"
-permalink: /_posts/2026-06-13-reading-wellness-festival
+permalink: /_posts/2026-06-13-reading-wellness-festival.md
 categories:
   - Post Formats
 tags:
