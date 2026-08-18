@@ -4,7 +4,7 @@ permalink: /about/
 layout: splash
 author_profile: true
 header:
-  overlay_image: /assets/images/threeyoungmen.jpeg
+  overlay_image: /assets/images/founding.pic.jpg
   overlay_filter: 0.25
   caption: "Our YOUth!"
 toc: true
