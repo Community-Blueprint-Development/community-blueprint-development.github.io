@@ -9,7 +9,7 @@ tags:
 ---
 
 {% capture fig_img %}
-[![InspiredU Flyer](../assets/images/Saturday-School-Flyer.png)](https://communityblueprintdevelopment.org)
+[![InspiredU Flyer](../assets/images/Saturday-School-Flyer-9-26.png)](https://communityblueprintdevelopment.org)
 {% endcapture %}
 
 {% capture fig_caption %}
