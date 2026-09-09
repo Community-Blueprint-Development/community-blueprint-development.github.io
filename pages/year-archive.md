@@ -7,6 +7,8 @@ author_profile: true
 
 Current and archived events:
 
+|[September-8-2026] [Fall 2026 Saturday School] | Fall 2026 Saturday School is Back! |
+|[September-8-2026] [Small Business Training] | Free 4-Week Small Business Training |
 |[June-13-2026] [June-18th-Attend-The-Reading-and-Wellness-Festival] | June 18th Reading and Wellness Festival |
 |[May-3-2026] [Summer-2026-Reading-and-Wellness-Festival] | Summer 2026 Reading and Wellness Festival Unearth a Story |
 |[April-29-2026] [Atlanta-North-Georgia-Conference-Sponsor] | Atlanta North Georgia Conference Sponsor |
@@ -22,6 +24,8 @@ Current and archived events:
 
 Check our archive [Posts by Year][year-archive].
 
+[Fall 2026 Saturday School]: {{ "" | relative_url }}{% post_url 2026-09-08-sat-school-flyer %}
+[Small Business Training]: {{ "" | relative_url }}{% post_url 2026-09-08-business-training %}
 [June-18th-Attend-The-Reading-and-Wellness-Festival]: {{ "" | relative_url }}{% post_url 2026-06-13-reading-wellness-festival %}
 [Summer-2026-Reading-and-Wellness-Festival]: {{ "" | relative_url }}{% post_url 2026-05-03-unearth %}
 [Atlanta-North-Georgia-Conference-Sponsor]: {{ "" | relative_url }}{% post_url 2026-04-29-sponsors %}
@@ -40,4 +44,5 @@ Check our archive [Posts by Year][year-archive].
 [categories-archive]: {{ "/categories/" | relative_url }}
 [tags-archive]: {{ "/tags/" | relative_url }}
 [year-archive]: {{ "/year-archive/" | relative_url }}
+
 
