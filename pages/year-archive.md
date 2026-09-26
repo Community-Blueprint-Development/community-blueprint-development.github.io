@@ -7,6 +7,9 @@ author_profile: true
 
 Current and archived events:
 
+| Name                                        | Description                                           |
+| ------------------------------------------- | ----------------------------------------------------- |
+|[September-25-2026] [Register-for-Saturday-School-Fall-2026-HERE] | Register for Saturday School Fall 2026 HERE |
 |[September-8-2026] [Fall 2026 Saturday School] | Fall 2026 Saturday School is Back! |
 |[September-8-2026] [Small Business Training] | Free 4-Week Small Business Training |
 |[June-13-2026] [June-18th-Attend-The-Reading-and-Wellness-Festival] | June 18th Reading and Wellness Festival |
@@ -23,7 +26,7 @@ Current and archived events:
 
 
 Check our archive [Posts by Year][year-archive].
-
+[Register-for-Saturday-School-Fall-2026-HERE]: {{ "" | relative_url }}{% post_url 2026-09-25-QRcode-SatSchool26 %}
 [Fall 2026 Saturday School]: {{ "" | relative_url }}{% post_url 2026-09-08-sat-school-flyer %}
 [Small Business Training]: {{ "" | relative_url }}{% post_url 2026-09-08-business-training %}
 [June-18th-Attend-The-Reading-and-Wellness-Festival]: {{ "" | relative_url }}{% post_url 2026-06-13-reading-wellness-festival %}
