@@ -10,12 +10,11 @@ header:
 toc: true
 ---
 
-Community Blueprint Development Foundation, Inc. (CBDF) is a nonprofit, tax-exempt 501 (c) (3) corporation organized and operated exclusively on the generosity of contributors to provide charitable se[...]
+Community Blueprint Development Foundation, Inc. (CBDF) is a nonprofit, tax-exempt 501 (c) (3) corporation organized and operated exclusively on the generosity of contributors to provide charitable services to our community. We believe that every person deserves access to the resources, support, and opportunities needed to thrive.
 
-CBDF is the vision of our president, Reverend Daniel Dickson, who has been on a mission to save the lives of youth in the Joyland community for nearly 20 years. In the Joyland Community, which is an e[...]
+CBDF is the vision of our president, Reverend Daniel Dickson, who has been on a mission to save the lives of youth in the Joyland community for nearly 20 years. In the Joyland Community, which is an underserved area, many youth are facing challenges that require support, encouragement, and practical opportunities to succeed.
 
-CBDF believes that we would all be better served to invest in the future by investing in our YOUth. Our primary focus is community development via YOUth development.  
-We believe that YOUth Development is a blueprint for positive community development! We also believe that we can equip community YOUth with essential academic, civic, economic and social life skills t[...]
+CBDF believes that we would all be better served to invest in the future by investing in our YOUth. Our primary focus is community development via YOUth development. We believe that YOUth Development is a blueprint for positive community development! We also believe that we can equip community YOUth with essential academic, civic, economic and social life skills needed to improve the quality of life in a community and promote a productive and constructive society.
 
 BENEFITs:
 1. Participants will be more inclined to practice healthy habits
