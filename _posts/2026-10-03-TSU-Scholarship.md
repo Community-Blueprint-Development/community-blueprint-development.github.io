@@ -1,6 +1,6 @@
 ---
-title: "Register for Saturday School Fall 2026 HERE"
-permalink: /_posts/2026-09-25-QRcode-SatSchool26
+title: "TSU MD/DDS Scholarship Program for Black Males"
+permalink: /_posts/2026-10-03-TSU-Scholarship
 categories:
   - Post Formats
 tags:
@@ -9,7 +9,7 @@ tags:
 ---
 
 {% capture fig_img %}
-[![InspiredU Flyer](../assets/images/QRcode-SatSchool26.png)](https://communityblueprintdevelopment.org)
+[![InspiredU Flyer](../assets/images/TSU-Scholarship.jpeg)](https://communityblueprintdevelopment.org)
 {% endcapture %}
 
 {% capture fig_caption %}
