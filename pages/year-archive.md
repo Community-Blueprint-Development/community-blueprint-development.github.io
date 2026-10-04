@@ -9,6 +9,7 @@ Current and archived events:
 
 | Name | Description |
 | --- | --- |
+| October-3-2026: [TSU-MD/DDS-Scholarship-Program-for-Black-Males]({% post_url 2026-10-03-TSU-Scholarship %}) | TSU MD/DDS Scholarship Program for Black Males |
 | September-25-2026: [Register-for-Saturday-School-Fall-2026-HERE]({% post_url 2026-09-25-QRcode-SatSchool26 %}) | Register for Saturday School Fall 2026 HERE |
 | September-8-2026: [Fall 2026 Saturday School]({% post_url 2026-09-08-sat-school-flyer %}) | Fall 2026 Saturday School is Back! |
 | September-8-2026: [Small Business Training]({% post_url 2026-09-08-business-training %}) | Free 4-Week Small Business Training |
