@@ -9,7 +9,7 @@ tags:
 ---
 
 {% capture fig_img %}
-[![InspiredU Flyer](..assets/images/TSU-scholarship.jpeg)](https://communityblueprintdevelopment.org)
+[![InspiredU Flyer](..assets/images/TSU-scholarship.png)](https://communityblueprintdevelopment.org)
 {% endcapture %}
 
 {% capture fig_caption %}
